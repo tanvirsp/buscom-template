@@ -262,7 +262,7 @@ nav::after {
 .drop-mega-menu:hover .mega-menu  {
     opacity: 1;
     visibility: visible;
-    top: 8rem;
+    top: 7.5rem;
 
 }
 
